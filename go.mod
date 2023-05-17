@@ -1,3 +1,3 @@
-module github.com/XieWeiXie/FeiShuTransalate
+module github.com/XieWeiXie/FeiShuTranslate
 
 go 1.20
